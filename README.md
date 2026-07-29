@@ -128,7 +128,9 @@ python main.py
 
 ## 📸 Screenshots
 
-https://github.com/hitman1c/AeroMail/blob/main/Dashboard%20structure.png
+## Dashboard Structure
+
+![Dashboard Structure](https://github.com/hitman1c/AeroMail/blob/main/Dashboard%20structure.png?raw=true)
 
 ---
 
