@@ -128,7 +128,7 @@ python main.py
 
 ## 📸 Screenshots
 
-Coming Soon...
+https://github.com/hitman1c/AeroMail/blob/main/Dashboard%20structure.png
 
 ---
 
