@@ -67,18 +67,11 @@ The AeroMail dashboard is designed with productivity in mind and includes:
 ## 📂 Project Structure
 
 ```text
-AeroMail/
-│
-├── assets/
-├── icons/
-├── ui/
-├── models/
-├── services/
-├── database/
-├── utils/
-├── main.py
-├── requirements.txt
-└── README.md
+Sending_email/
+├── email_template.py
+├── README.md
+├── test_email_template.py
+└── .venv/
 ```
 
 ---
