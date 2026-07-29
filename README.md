@@ -156,7 +156,7 @@ This project is licensed under the MIT License.
 
 **Seabata Jeremiah Sechaba**
 
-Software Engineering Student | Python Developer | AI Enthusiast | African Coding Intern
+Software Engineering Student | Python Developer | AI Enthusiast | African Coding Intern {https://africacode.org/}
 
 GitHub: https://github.com/hitman1c
 
